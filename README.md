@@ -1,7 +1,12 @@
 <!-- Futuristic Header -->
 <p align="center">
-  <img src="header.png" alt="Biswajit Pattanayak | DevOps Engineer" width="50%">
+  <img src="https://via.placeholder.com/900x200/0f0f0f/00ffcc?text=Biswajit+Pattanayak+|+DevOps+Engineer" 
+       alt="Biswajit Pattanayak | DevOps Engineer" 
+       width="90%" 
+       height="200px" 
+       style="border-radius: 15px; object-fit: cover; box-shadow: 0 0 20px #00ffcc;">
 </p>
+
 
 <!-- Typing Animation -->
 <p align="center">
