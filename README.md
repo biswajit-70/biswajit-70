@@ -1,6 +1,6 @@
 <!-- Futuristic Header -->
 <p align="center">
-  <img src="A_digital_graphic_banner_showcases_Biswajit_Pattan.png" alt="Biswajit Pattanayak | DevOps Engineer" width="100%">
+  <img src="header.png" alt="Biswajit Pattanayak | DevOps Engineer" width="100%">
 </p>
 
 <!-- Typing Animation -->
@@ -109,7 +109,7 @@
 
 <!-- Futuristic Footer -->
 <p align="center">
-  <img src="A_digital_graphic_design_banner_features_Biswajit_.png" alt="Let's Automate the Future | Biswajit Pattanayak" width="100%">
+  <img src="footer.png" alt="Let's Automate the Future | Biswajit Pattanayak" width="100%">
 </p>
 
 ✨ _“Automating today for a smarter tomorrow.”_ ✨  
