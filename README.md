@@ -1,11 +1,8 @@
 <!-- Futuristic Header -->
 <p align="center">
-  <img src="https://via.placeholder.com/900x200/0f0f0f/00ffcc?text=Biswajit+Pattanayak+|+DevOps+Engineer" 
-       alt="Biswajit Pattanayak | DevOps Engineer" 
-       width="90%" 
-       height="200px" 
-       style="border-radius: 15px; object-fit: cover; box-shadow: 0 0 20px #00ffcc;">
+  <img src="header.png" alt="Biswajit Pattanayak | DevOps Engineer" width="100%" height="240px" style="object-fit: cover;">
 </p>
+
 
 
 <!-- Typing Animation -->
@@ -102,10 +99,10 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/biswajit-pattanayak-424822281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="mailto:biswajitpattanaik453@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
 </p>  
@@ -114,7 +111,7 @@
 
 <!-- Futuristic Footer -->
 <p align="center">
-  <img src="footer.png" alt="Let's Automate the Future | Biswajit Pattanayak" width="100%">
+  <img src="footer.png" alt="Let's Automate the Future | Biswajit Pattanayak"  width="100%" height="240px" style="object-fit: cover">
 </p>
 
 ✨ _“Automating today for a smarter tomorrow.”_ ✨  
