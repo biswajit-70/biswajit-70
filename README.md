@@ -1,6 +1,6 @@
 <!-- Futuristic Header -->
 <p align="center">
-  <img src="header.png" alt="Biswajit Pattanayak | DevOps Engineer" width="100%">
+  <img src="header.png" alt="Biswajit Pattanayak | DevOps Engineer" width="50%">
 </p>
 
 <!-- Typing Animation -->
